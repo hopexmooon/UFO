@@ -7,11 +7,15 @@ The purpose of this analysis is to have the ability to filter and obtain specifi
 
 Results: 
 
-The previous website only had one filter, City name. Adding two additional filters, UFO shape and state, will provide specificity. For example, 
+The previous website only had one filter, City name. Adding five additional filters, UFO shape, location it was witnessed, will provide specificity. For example, filtering 1/13/2010 we see three different cities a UFO was spotted. If we wanted to filter down even further we can compare the UFO shape. 
+
+<img width="1283" alt="Screen Shot 2022-09-22 at 10 44 45 PM" src="https://user-images.githubusercontent.com/108151049/191883173-52a81cf3-7faa-4517-bc33-bd42279ef375.png">
 
 
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. 
-Use images of your webpage during the filtering process to support your explanation.
+Filtering 1/1/2010 *and* searching for "light" UFO shape we can see several entries. This website can allow for various filters. Whether we want to compare dates among the same city/state or if we want to compare different sightings on the same night.  
+
+<img width="1292" alt="Screen Shot 2022-09-22 at 10 47 26 PM" src="https://user-images.githubusercontent.com/108151049/191883387-3c41b741-f5eb-41a4-9eee-53ceb6585111.png">
+
 
 Summary: 
 
